@@ -24,10 +24,10 @@ export default function Main() {
             </p>
           </div>
         </div>
-        <div className="flex flex-col mx-auto max-w-sm m-5">
+        <div className="flex flex-col mx-auto px-5 max-w-sm m-5">
           <a
             href="https://mezorn.com/"
-            className="flex justify-center items-center w-full text-white text-lg h-12 bg-[#4a4a4a] hover:bg-[#595959] rounded"
+            className="flex justify-center  items-center w-full text-white text-lg h-12 bg-[#4a4a4a] hover:bg-[#595959] rounded"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"

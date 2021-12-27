@@ -6,7 +6,7 @@ export default function Footer() {
           Get a page and a domain with your name.
         </li>
         <li>
-          <button className="h-10 w-48 px-4 my-2 mx-5 shrink-0 text-white text-lg transition-colors duration-150 bg-sky-600 rounded focus:shadow-outline hover:bg-sky-800">
+          <button className="h-10 w-56 px-4 my-2 mx-5 shrink-0 text-white text-lg transition-colors duration-150 bg-sky-600 rounded focus:shadow-outline hover:bg-sky-800">
             Get Started for free
           </button>
         </li>
